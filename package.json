@@ -1,0 +1,28 @@
+{
+  "name": "e2e_shop_test",
+  "version": "1.0.0",
+  "description": "automation tests with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJakubowska359/e2e_shop_test.git"
+  },
+  "keywords": [
+    "automation",
+    "tests",
+    "cypress"
+  ],
+  "author": "Monika Jakubowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJakubowska359/e2e_shop_test/issues"
+  },
+  "homepage": "https://github.com/MJakubowska359/e2e_shop_test#readme",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
